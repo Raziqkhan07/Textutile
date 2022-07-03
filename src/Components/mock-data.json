@@ -1,0 +1,38 @@
+[
+    {
+        "slno":1,
+        "name": "Raziq khan",
+        "city": "Mamballi",
+        "connection": "Avarage",
+        "status": "Pending"
+    },
+    
+      {
+        "slno":2,
+        "name": "Shilpa",
+        "city": "Vizag",
+        "connection": "Good",
+        "status": "Pending"
+      },
+      {
+        "slno":3,
+        "name": "Lokesh",
+        "city": "Bangalore",
+        "connection": "Good",
+        "status": "Approved"
+      },
+      {
+        "slno":4,
+        "name": "Shahabaz",
+        "city": "Guntur",
+        "connection": "Bad",
+        "status": "Reject"
+      },
+      {
+        "slno":5,
+        "name": "Ashok",
+        "city": "Gundraire",
+        "connection": "Bad",
+        "status": "Reject"
+      }
+    ]
